@@ -1,5 +1,5 @@
 # Inventory-App
-It a fully functional project written in the Node JS programming language.. Create a UI using HTML and CSS to interact with the inventory. Design forms and elements for login,l ogout ,updating and  deleting items.  i
+It a fully functional project written in the Node JS programming language.. Create a UI using HTML and CSS to interact with the inventory. Design forms and elements for login,l ogout ,updating and  deleting items.  
 
 ![Screenshot 2023-12-03 160333](https://github.com/sanketuparate/Inventory-App/assets/81017631/bdb609e1-9491-4f7a-913c-5faac443f80a)
 
